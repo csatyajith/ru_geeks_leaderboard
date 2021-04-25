@@ -1,0 +1,5 @@
+{
+  "participants": ["participant_a", "participant_b"],
+  "api_call_uri": "Github API Call URI",
+  "slack_api_token": "Enter slack api token"
+}
