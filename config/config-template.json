@@ -1,5 +1,5 @@
 {
   "participants": ["participant_a", "participant_b"],
-  "api_call_uri": "Github API Call URI",
+  "api_call_uri": "https://api.github.com/repos/{}/leetcode_solutions/git/trees/{}?recursive=1",
   "slack_api_token": "Enter slack api token"
 }
